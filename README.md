@@ -1,4 +1,4 @@
-Clases Frontend
+<h1>Clases Frontend</h1>
 
 Este codigo tiene un pequeño ejemplo de como usar las siguientes herramientes:
 - Motor de templates Jade
