@@ -16,6 +16,7 @@
 <h2>instalacion</h2>
 
 <ul>
+	<li>npm install</li>
 	<li>gulp</li>
 </ul>
 
