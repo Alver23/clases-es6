@@ -1,19 +1,26 @@
 <h1>Clases Frontend</h1>
 
-Este codigo tiene un pequeño ejemplo de como usar las siguientes herramientes:
-- Motor de templates Jade
-- Nueva Sintaxis ES6
-- Gulp
+<p>Este codigo tiene un pequeño ejemplo de como usar las siguientes herramientes:</p>
+<ul>
+	<li>Motor de templates Jade</li>
+	<li>Nueva Sintaxis ES6</li>
+	<li>Gulp</li>
+</ul>
 
-Requisitos
+<h2>Requisitos</h2>
+<ul>
+	<li>Node.js</li>
+	<li>npm</li>
+</ul>
 
-- node.js
-- npm
+<h2>instalacion</h2>
 
-instalacion
+<ul>
+	<li>gulp</li>
+</ul>
 
-- gulp
+<h2>Ejecutar Servidor</h2>
 
-Ejecutar Servidor
-
-- npm run server
+<ul>
+	<li>npm run server</li>
+</ul>
