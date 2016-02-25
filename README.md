@@ -17,11 +17,13 @@
 
 <ul>
 	<li>npm install</li>
-	<li>gulp</li>
+	<li>npm install gulp</li>
+	<li>npm install http-server</li>
+	<li>correr el comando: gulp</li>
 </ul>
 
 <h2>Ejecutar Servidor</h2>
 
 <ul>
-	<li>npm run server</li>
+	<li>npm run serve</li>
 </ul>

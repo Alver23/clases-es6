@@ -4,7 +4,7 @@
     "description": "Landing Diseñada con plantillas Jade y Sintaxis ES6",
     "main": "index.js",
     "scripts" : {
-        "server" : "http-server . -o && -p 8000"
+        "serve" : "http-server . -o && -p 8000"
     },
     "author": "Alver Grisales",
     "license": "ISC",
